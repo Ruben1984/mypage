@@ -1,1 +1,2 @@
-console.log('abc');
+let Mongodb=require('mongodb').MongoClient;
+
